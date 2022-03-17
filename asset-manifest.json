@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/perfadcoolbeans/static/css/main.e6c13ad2.css",
-    "main.js": "/perfadcoolbeans/static/js/main.cfe23b76.js",
+    "main.js": "/perfadcoolbeans/static/js/main.b1483e21.js",
     "index.html": "/perfadcoolbeans/index.html",
     "main.e6c13ad2.css.map": "/perfadcoolbeans/static/css/main.e6c13ad2.css.map",
-    "main.cfe23b76.js.map": "/perfadcoolbeans/static/js/main.cfe23b76.js.map"
+    "main.b1483e21.js.map": "/perfadcoolbeans/static/js/main.b1483e21.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cfe23b76.js"
+    "static/js/main.b1483e21.js"
   ]
 }
